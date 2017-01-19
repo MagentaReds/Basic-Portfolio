@@ -30,8 +30,13 @@ h2 {
   font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+h1 {
+  font-size: 40px;
+}
+
 h2 {
   color: #4aaaa5;
+  font-size: 20px;
 }
 
 p, footer, a {
